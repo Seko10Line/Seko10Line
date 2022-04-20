@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Seko10Line
-- 👀 I’m interested in SAP PI/PO and ODEX&XLATE and C#
+- 👀 I’m interested in SAP PI/PO and ODEX/XLATE and C# and OFTP2
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on EDI
 - 📫 How to reach me ...
